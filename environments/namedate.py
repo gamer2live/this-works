@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 print("Welcome to the ass hat club")
 import datetime
 currentDT = datetime.datetime.now()
